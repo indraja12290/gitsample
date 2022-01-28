@@ -72,7 +72,6 @@ C:\sampleprojects\gitsample\gitsample\bin\System.Web.WebPages.Razor.xml
 C:\sampleprojects\gitsample\gitsample\bin\Newtonsoft.Json.xml
 C:\sampleprojects\gitsample\gitsample\bin\Antlr3.Runtime.pdb
 C:\sampleprojects\gitsample\gitsample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\sampleprojects\gitsample\gitsample\obj\Debug\gitsample.csproj.AssemblyReference.cache
 C:\sampleprojects\gitsample\gitsample\obj\Debug\gitsample.csproj.CoreCompileInputs.cache
 C:\sampleprojects\gitsample\gitsample\obj\Debug\gitsample.csproj.CopyComplete
 C:\sampleprojects\gitsample\gitsample\obj\Debug\gitsample.dll
